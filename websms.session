@@ -1,0 +1,22 @@
+<!DOCTYPE webprojectsession>
+<webprojectsession>
+  <session usePreviewPrefix="0" previewPrefix="" >
+    <itemcursorpositions>
+      <item line="0" column="0" url="application/views/template.php" />
+      <item line="18" column="182" url="application/models/m_message.php" />
+      <item line="0" column="0" url="application/controllers/inbox.php" />
+      <item line="0" column="0" url="application/views/inbox_view.php" />
+      <item line="44" column="69" url="application/views/js/inbox_js.php" />
+      <item line="0" column="0" url="application/controllers/websms.php" />
+    </itemcursorpositions>
+    <treestatus>
+      <openfolder url="application" />
+      <openfolder url="application/controllers" />
+      <openfolder url="application/models" />
+      <openfolder url="application/views" />
+      <openfolder url="application/views/js" />
+      <openfolder url="assets" />
+      <openfolder url="assets/css" />
+    </treestatus>
+  </session>
+</webprojectsession>
