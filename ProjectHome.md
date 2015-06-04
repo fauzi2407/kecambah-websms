@@ -1,0 +1,1 @@
+Web based Gammu FrontEnd using MVC framework with CodeIgniter and Dojo Javascript
